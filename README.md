@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <!--
 Here are some ideas to get you started:
 
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?liveashish)
+![](https://komarev.com/ghpvc/?username=liveashish&label=PROFILE+VIEWS)

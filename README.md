@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/liveashish/my-github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-![](https://raw.githubusercontent.com/MadhabaPatra/my-github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/liveashish/my-github-stats/master/generated/languages.svg#gh-dark-mode-only)

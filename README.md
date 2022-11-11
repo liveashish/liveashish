@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=liveashish&label=PROFILE+VIEWS)
+
+![](https://raw.githubusercontent.com/MadhabaPatra/my-github-stats/master/generated/languages.svg#gh-dark-mode-only)
